@@ -44,4 +44,8 @@ git clone https://github.com/<your-username>/flashmind-cli.git
 cd flashmind-cli
 pip install -r requirements.txt
 # flashmind
+<<<<<<< HEAD
+# flashmind
+=======
+>>>>>>> 333764996ad72b69b52cecdb9b3f0432baabb8c9
 # flashmind
